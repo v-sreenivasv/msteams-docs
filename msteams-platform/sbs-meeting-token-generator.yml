@@ -5,7 +5,7 @@ metadata:
   description: In this tutorial, you'll learn to set up a Meeting Token Generator for Teams.
   audience: Developer
   level: Beginner
-  ms.date: 10/12/2021
+  ms.date: 11/24/2021
   ms.topic: interactive-tutorial
   nextTutorialHref: apps-in-teams-meetings/enable-and-configure-your-app-for-teams-meetings.md
   nextTutorialTitle: Read more to authenticate apps in Teams meeting
